@@ -101,7 +101,6 @@ main li{
 main a{
     color: #6d9773;
 }
-/* Ask about hover in number 3 */
 
 /*Menu Page Styles*/
 table{
@@ -132,7 +131,6 @@ caption{
 
 /*Reservations Page Styles*/
 
-/* Check this form attribute selector */
 input[type="text"], input[type="email"], input[type="tel"], input[type="number"], input[type="datetime-local"], textarea{
     border: 2px solid #0c3b2e;
     margin-bottom: 0.5rem;
